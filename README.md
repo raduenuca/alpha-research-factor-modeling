@@ -7,4 +7,4 @@
 * Evaluate the factors using factor-weighted returns, quantile analysis, sharpe ratio, and turnover analysis. 
 * Optimize the portfolio using the risk model and factors using multiple optimization formulations. 
 
-For the dataset, the end of day from Quotemedia and sector data from Sharadar are used.
+*For the dataset, the end of day from Quotemedia and sector data from Sharadar are used.*
